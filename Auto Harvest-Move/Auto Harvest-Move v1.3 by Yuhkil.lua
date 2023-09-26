@@ -2,7 +2,7 @@
 -- https://github.com/GrowHax
 -----------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------
-local TreeID = 3 -- Farmable ItemID
+local TreeID = 17 -- Farmable Seed ID
 -----------------------------------------------------------------------------------------
 local HarvestWorld = "YourWorldName" -- World you want to harvest in.
 local ID1 = "DoorID" -- Door ID

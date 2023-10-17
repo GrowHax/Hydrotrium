@@ -1,5 +1,9 @@
 # Changelogs
 
+## V2.0
+- Added Webhook function
+- Added Auto Warp Carnival
+
 ## V1.5
 - Added Golden Ticket Refill Option
 

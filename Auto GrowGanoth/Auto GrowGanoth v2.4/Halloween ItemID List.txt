@@ -1,0 +1,69 @@
+816 Flaming Skull Mask
+1168 Slick Black Hair
+1170 Vampire Fangs
+1172 Vamp Vest
+1182 Hockey Mask
+1184 Mummy Mask
+1186 Skull Mask
+1188 Wolfman Mask
+1192 Creepy Hair
+1194 Haunted House
+1198 Pumpkin Block
+1208 Candy Corn
+1216 Cultist Hood
+1218 Cultist Robe
+1222 Creepstone Platform
+1226 Evil Eye
+1230 Frankenhair
+1236 Boney Block
+1238 Cobweb
+1980 Claw Glove
+1982 Creepy Wallpaper
+1984 Haunted Mausoleum
+1988 Doppelganger Potion
+1992 Hanging Thread
+1994 Muerto Mask
+2030 Special Cultist Hood
+2956 Growch Cultist Robe
+3102 Eldritch Flame
+3106 Ghost Costume
+3110 Cape Tatters
+3116 Hellgate
+4158 Buzzsaw
+4160 Rickety Wallpaper
+4162 Rickety Window
+4164 Rickety Door
+5222 Demon Clown Mask
+5232 Fish Monster Mask
+5238 Looming Shadows
+5240 Hanging Bats
+5256 Pumpkin Candy
+7108 Knife Head
+7110 Evil Grin
+7112 Vampiress Dress
+7114 Nightmare Vampiress Dress
+7116 Vapor Vent
+7128 Creepy Baby Head Mask
+7130 Growmoji Ghost
+9044 Demon Cow Cube
+9046 Eldritch Flame Wall Torch
+10196 Twisted Windows
+10198 Twisted Roof
+10202 Twisted Mansion Door
+10204 Creepy Baby Suit
+10316 Spooky Window
+10322 Spooky Rags
+11330 Zombie Hand Chair
+11340 Emo Hair
+11342 Halloween Lantern
+11348 Angry Block
+11454 Freezing Skull Mask
+12784 Crystal Ball Buddy
+12786 Vined Grandfather Clock
+12788 Vined Statue of Enlightenment
+12790 Obake Lantern
+12798 Monster Mummy Mask
+1196 Jack O' Lantern
+1200 Jack O' Block
+1202 Lit Jack O' Block
+1220 Sigil Of K'Tesh

@@ -8,15 +8,20 @@
 1188 Wolfman Mask
 1192 Creepy Hair
 1194 Haunted House
+1196 Jack O' Lantern
 1198 Pumpkin Block
+1200 Jack O' Block
+1202 Lit Jack O' Block
 1208 Candy Corn
 1216 Cultist Hood
 1218 Cultist Robe
+1220 Sigil Of K'Tesh
 1222 Creepstone Platform
 1226 Evil Eye
 1230 Frankenhair
 1236 Boney Block
 1238 Cobweb
+1972 Edvoid's Mistake
 1980 Claw Glove
 1982 Creepy Wallpaper
 1984 Haunted Mausoleum
@@ -29,6 +34,7 @@
 3106 Ghost Costume
 3110 Cape Tatters
 3116 Hellgate
+4154 Jack o' Lantern Mask
 4158 Buzzsaw
 4160 Rickety Wallpaper
 4162 Rickety Window
@@ -37,6 +43,7 @@
 5232 Fish Monster Mask
 5238 Looming Shadows
 5240 Hanging Bats
+5248 Headsman's Hood
 5256 Pumpkin Candy
 7108 Knife Head
 7110 Evil Grin
@@ -47,6 +54,7 @@
 7130 Growmoji Ghost
 9044 Demon Cow Cube
 9046 Eldritch Flame Wall Torch
+10166 Haunted Jack O' Lantern
 10196 Twisted Windows
 10198 Twisted Roof
 10202 Twisted Mansion Door
@@ -63,7 +71,3 @@
 12788 Vined Statue of Enlightenment
 12790 Obake Lantern
 12798 Monster Mummy Mask
-1196 Jack O' Lantern
-1200 Jack O' Block
-1202 Lit Jack O' Block
-1220 Sigil Of K'Tesh

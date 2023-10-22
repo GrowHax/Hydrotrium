@@ -1,4 +1,5 @@
-
+-- Auto GrowGanoth v2.4 by Yuhkil
+-- https://github.com/GrowHax
 local World = "YourWorldname"  -- World you want to refill
 local ID = "DoorID" -- Door ID
 local Quantity = 1 -- Amount of items to drop in GrowGanoth
